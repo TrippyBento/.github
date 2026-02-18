@@ -3,7 +3,6 @@
 Cozy indie games with a weird flavor.
 
 We build small, thoughtful games using:
-- Godot 4.x
 - Unreal 5.x
 - Unity 6.x
 
